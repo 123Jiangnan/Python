@@ -4,5 +4,6 @@
 字符串的操作
 str2 = 'xiaoxie'
 str2.capitalize()\\将字符串第一个字母改为大写
+\\其他在使用时百度
 
 
